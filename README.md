@@ -1,2 +1,2 @@
-# Professionaly
+# Professionaly Maxim
 Коды для профессионалов (Летающая робототехника, юниоры)
